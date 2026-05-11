@@ -326,7 +326,7 @@ void searchMenu() {
 
 
 string genreList[] = {"War","Mystery","Horror","Action","Drama","Documentary","Musical","Comedy","Romance","Slice of life"};
-int genreCount = 11;
+int genreCount = 10;
 
 void genreMenu() {
     cout << "\n==== Pilih Genre ====\n";
